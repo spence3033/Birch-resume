@@ -3,7 +3,7 @@ A student at BYU-I who will graduate in April 2024. I've got beginning experienc
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://www.linkedin.com/in/sbirch3303">Linked In</a>
+| <a href="https://www.linkedin.com/in/sbirch3303">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
