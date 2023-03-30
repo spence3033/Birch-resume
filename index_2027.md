@@ -71,12 +71,12 @@ __Elite Vinyl, LLC__, Fence Construction Contractor
 __IEEE Society BYU-I Branch__
 
 - Worked on hardware projects with other electrical engineering students to get some experience in hardware.
-- Networked with electrical engineering Professionals .
+- Networked with electrical engineering Professionals.
 
 `March 2023 - Present`
 __Data Science Society__, 
 
-- Worked on data science projects given to use from actual companies.
+- Learned about Data Science projects given to groups formed in this society. 
 
 ## Service and Work History
 
