@@ -1,89 +1,87 @@
----
-layout: cv
-title: Brigham Young's Resume
----
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# SPENCER BIRCH
+A student at BYU-I who will graduate in April 2024. I've got beginning experience with web development in my internship and have since been working there part time for the last 9 months.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="">sbirch3303@gmail.com</a>
+  | <a href="">(208) 351-9930</a>
+  | <a href="https://www.linkedin.com/in/sbirch3303">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2018-2024`
+__BYU-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Bachelor's of Science in Computer Science
+- Electrical Engineering Minor
+- Web Development Certificate
+- Machine Learning Fundamentals Certificate
+- GPA 3.92
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+`Expected 2024`
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2022 - Present`
+__America Health__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+__Intern/Software Developer__
 
-### Data Science Lead
+- Produced 3 new report pages which assist Providers and Administrators to monitor encounters, the number of active patients being seen by Providers, and the case load of each Provider.
+- Integrated billing software with proper X12 standards to produce valid 837 healthcare claims. This saves America Health $50K a year by saving accountants extra work with invalid claims.
+- Learned and increased my skills with Angular, PHP, and SQL.
+- Kept a very positive environment and communication with the team of 5 software developers.
+-	Wrote concise professional emails to uncover user issues.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Job Experience
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`April 2019 - September 2019`
+__First American Mortgage Solutions__, Data Entry
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Retrieving information on mortgages by scanning through mortgage documents and searching for information on county webpages to create mortgage assignments.
+- Fixing mortgage assignments by viewing county rejection messages and ensuring documents fit the county requirements.
+- Handling official documents involving scanning, copying, and organizing a high volume (100+) of assignments an hour to ensure all assignments are recorded and signed.
 
-### Data Science Consulting Team
+`June 2021 - September 2021`
+__LOWE'S__, Back-End Receiver
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Scanning and recording 60+ items in 30 minutes.
+- Ensuring all customers and employees are following safety regulations to prevent any potential injury.
+- Driving order pickers to get large stock items from the warehouse for the customers. 
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`August 2020 - September 2020`
+__Elite Vinyl, LLC__, Fence Construction Contractor
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Removing previous fence from airport safely such that we avoid damaging any pipeline under the ground.
+- Ensuring that the new chain link fence around the airport meets all the security specifications.
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+### Societies
 
+`Februrary 2019 - December 2021`
+__IEEE Society BYU-I Branch__
+
+- Worked on hardware projects with other electrical engineering students to get some experience in hardware.
+- Networked with electrical engineering Professionals.
+
+`March 2023 - Present`
+__Data Science Society__, 
+
+- Learned about Data Science projects given to groups formed in this society. 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+`2019-2020`
+__Service Missionary__, North Carolina
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2023 -->
 
 
