@@ -2,8 +2,9 @@
 A student at BYU-I who will graduate in April 2024. I've got beginning experience with web development in my internship and have since been working there part time for the last 9 months.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">sbirch3303@gmail.com</a>
-| <a href="https://www.linkedin.com/in/sbirch3303">LinkedIn</a>
+<a href="">sbirch3303@gmail.com</a>
+  | <a href="">(208)351-9930</a>
+  | <a href="https://www.linkedin.com/in/sbirch3303">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
