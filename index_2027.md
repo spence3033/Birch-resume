@@ -59,6 +59,12 @@ __LOWE'S__, Back-End Receiver
 - Ensuring all customers and employees are following safety regulations to prevent any potential injury.
 - Driving order pickers to get large stock items from the warehouse for the customers. 
 
+`August 2020 - September 2020`
+__Elite Vinyl, LLC__, Fence Construction Contractor
+
+- Removing previous fence from airport safely such that we avoid damaging any pipeline under the ground.
+- Ensuring that the new chain link fence around the airport meets all the security specifications.
+
 ### Societies
 
 `Februrary 2019 - December 2021`
