@@ -3,7 +3,7 @@ A student at BYU-I who will graduate in April 2024. I've got beginning experienc
 
 <div id="webaddress">
 <a href="">sbirch3303@gmail.com</a>
-  | <a href="">(208)351-9930</a>
+  | <a href="">(208) 351-9930</a>
   | <a href="https://www.linkedin.com/in/sbirch3303">LinkedIn</a>
 </div>
 
