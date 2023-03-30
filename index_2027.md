@@ -1,7 +1,3 @@
----
-layout: resume
-title: Spenber Birch's Resume
----
 # SPENCER BIRCH
 A student at BYU-I who will graduate in April 2024. I've got beginning experience with web development in my internship and have since been working there part time for the last 9 months.
 
